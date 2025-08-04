@@ -30,5 +30,4 @@ Example: The dashboard was built using the following tools and technologies:
 
 5. Screenshots / Demos
 
-(://github.com/Saroj-Shende/HR_Analyst_Dashboard/blob/main/HR%20Analyst%20Dashboard.png)
-   
+ [Alt text](https://github.com/Saroj-Shende/HR_Analyst_Dashboard/blob/main/HR%20Analyst%20Dashboard.png)
